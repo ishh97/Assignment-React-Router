@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.NavBar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.KalviumBtn{
+    font-size: 4vh;
+    text-decoration: none;
+    color: white;
+}
+.Contact, .About{
+    text-decoration: none;
+    color: white;
+    font-size: 3vh;
+    margin: 9px;
+}
